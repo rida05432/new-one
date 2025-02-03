@@ -1,0 +1,21 @@
+/* Analytics.css */
+
+.analytics-container {
+  width: 100%;
+  margin: 2rem;
+  padding-left: 90px; /* Adjust this value to move content to the right */
+  transition: margin-left 0.3s ease;
+}
+
+.combined-header {
+  margin-bottom: 20px;
+  margin-left: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+.analytics {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
